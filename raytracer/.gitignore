@@ -402,6 +402,6 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
-raytracer/image.ppm
+image.ppm
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio
